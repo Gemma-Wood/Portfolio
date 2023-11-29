@@ -1,61 +1,75 @@
-Gemma Wood Portfolio
+# Unit 2 Challenge: Portfolio
 
-Welcome to my Design and Development Portfolio. This portfolio showcases my skills, various projects, and how to contact me.
+## Your Task
 
-As a front-end web development student, I've created this portfolio to present my skills and projects to potential employers and to showcase what I have already learnt on this bootcamp. The portfolio incorporates core skills such as flexbox and media queries. The goal is to not only showcase my work but also to provide insights into the thought processes behind each project.
+This week, you'll build a portfolio page, which you can add to as the course progresses. 
 
-About
+A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
 
-The sections in my portolio include The portfolio is broken down into sections which can be seen in my wireframes shown below. The 3 sections are as listed.
+With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-About Me: Read about me, what I enjoy and my skills.
+**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
 
-Work: Explore a collection of my projects that I have made so far, along with my design portfolio and some social links with more projects soon to come!
+## Acceptance Criteria
 
-Contact: Find out how to get in touch with me by Phone, Email or Github.
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-Clicking on any of these links will smoothly scroll to the corresponding section, providing a seamless user experience. Also, within the navbar when you hover over any item the colour changes.
+* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
+* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
+* When viewing the section about your work then the section contains titled images of your applications
+* When presented with the your first application then that application's image should be larger in size than the others
+* When images of the applications are clicked then the user is taken to that deployed application
+* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
-With the importance of adaptability, my portfolio is designed to be responsive, the layout will adapt to your device. Media queries used ensure a smooth experience across various screens and devices.
+## Mock-Up
 
-License MIT License
+The following animation shows the web application's appearance and functionality:
 
-Copyright (c) [2023] [Gemma Wood]
+![portfolio demo](./images/01-css-challenge-demo.gif)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Feel free to use your own colors and images.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Grading Requirements
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This challenge is graded based on the following criteria: 
 
-Deployed - Gemma Wood Portfolio
+### Technical Acceptance Criteria: 40%
 
-Welcome to my Design and Development Portfolio. This portfolio showcases my skills, various projects, and how to contact me.
+* Satisfies all of the above acceptance criteria.
 
-As a front-end web development student, I've created this portfolio to present my skills and projects to potential employers and to showcase what I have already learnt on this bootcamp. The portfolio incorporates core skills such as flexbox and media queries. The goal is to not only showcase my work but also to provide insights into the thought processes behind each project.
+### Deployment: 32%
 
-About
+* Application deployed at live URL.
 
-The sections in my portolio include The portfolio is broken down into sections which can be seen in my wireframes shown below. The 3 sections are as listed.
+* Application loads with no errors.
 
-About Me: Read about me, what I enjoy and my skills.
+* Application GitHub URL submitted.
 
-Work: Explore a collection of my projects that I have made so far, along with my design portfolio and some social links with more projects soon to come!
+* GitHub repository contains application code.
 
-Contact: Find out how to get in touch with me by Phone, Email or Github.
+### Application Quality: 15%
 
-Clicking on any of these links will smoothly scroll to the corresponding section, providing a seamless user experience. Also, within the navbar when you hover over any item the colour changes.
+* Application resembles the mock-up functionality provided in the challenge instructions.
 
-With the importance of adaptability, my portfolio is designed to be responsive, the layout will adapt to your device. Media queries used ensure a smooth experience across various screens and devices.
+### Repository Quality: 13%
 
-License MIT License
+* Repository has a unique name.
 
-Copyright (c) [2023] [Gemma Wood]
+* Repository follows best practices for file structure and naming conventions.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* Repository contains multiple descriptive commit messages.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* Repository contains quality readme with description, screenshot, link to deployed application.
 
-Deployed - https://github.com/Gemma-Wood/gemma-wood-portfolio
+## Review
+
+You are required to submit BOTH of the following for review:
+
+* The URL of the deployed application.
+
+* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+
+---
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
